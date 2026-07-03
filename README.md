@@ -48,7 +48,7 @@ Mon projet le plus abouti : une **borne de télémesure viticole** (projet BTS p
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br><sub><b>Git</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br><sub><b>VS&nbsp;Code</b></sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/platformio" width="48" alt="PlatformIO"/><br><sub><b>PlatformIO</b></sub></td>
   </tr>
 </table>
