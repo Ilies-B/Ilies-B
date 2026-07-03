@@ -10,25 +10,48 @@ Je m'intéresse aux systèmes **full-stack IoT** : de la carte embarquée jusqu'
 
 Mon projet le plus abouti : une **borne de télémesure viticole** (projet BTS pour le CIVA) — capteurs sur ESP32, transmission LoRaWAN, serveur ChirpStack/MQTT conteneurisé avec Docker, base de données time-series InfluxDB, et application web Node.js complète (authentification, données temps réel avec Socket.io, cartographie Leaflet, graphiques Chart.js, alertes email avec détection de vol par géolocalisation), le tout sécurisé en TLS (HTTPS/MQTTS).
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 **Web & Backend**
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,git,github,vscode)
-
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br><sub><b>Express</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/socketdotio/white" width="48" alt="Socket.io"/><br><sub><b>Socket.io</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/chartdotjs" width="48" alt="Chart.js"/><br><sub><b>Chart.js</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/leaflet" width="48" alt="Leaflet"/><br><sub><b>Leaflet</b></sub></td>
+  </tr>
+</table>
 
 **Serveur, données & IoT**
 
-![Skills](https://skillicons.dev/icons?i=docker,linux,cpp,raspberrypi,arduino)
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/><br><sub><b>Linux</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br><sub><b>C++</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi"/><br><sub><b>Raspberry&nbsp;Pi</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" width="48" alt="Arduino"/><br><sub><b>Arduino</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/influxdb" width="48" alt="InfluxDB"/><br><sub><b>InfluxDB</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/eclipsemosquitto" width="48" alt="MQTT Mosquitto"/><br><sub><b>MQTT</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" alt="ESP32"/><br><sub><b>ESP32</b></sub></td>
+  </tr>
+</table>
 
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/MQTT%20·%20Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+**Outils**
 
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/platformio" width="48" alt="PlatformIO"/><br><sub><b>PlatformIO</b></sub></td>
+  </tr>
+</table>
 ## 📌 Projets
 
 - 🍇 **Borne de télémesure viticole** — chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → webapp Node.js temps réel
