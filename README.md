@@ -52,6 +52,7 @@ Mon projet le plus abouti : une **borne de télémesure viticole** (projet BTS p
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/platformio" width="48" alt="PlatformIO"/><br><sub><b>PlatformIO</b></sub></td>
   </tr>
 </table>
+
 ## 📌 Projets
 
 - 🍇 **Borne de télémesure viticole** — chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → webapp Node.js temps réel
