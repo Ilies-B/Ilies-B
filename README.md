@@ -1,7 +1,7 @@
 # Ilies BOUSSABOUA
 
 🎓 Étudiant en **Licence Professionnelle Développement Web & Mobile (LP3 UHA 4.0)** à l'Université de Haute-Alsace. Accepté pour la rentrée en septembre 2026<br>
-🔍 **À la recherche d'une alternance en développement web / mobile** dans le Haut-Rhin <br>
+🔍 **À la recherche d'une alternance en développement logiciels, web / mobile**<br>
 📜 Titulaire d'un **BTS CIEL** (Cybersécurité, Informatique et réseaux, Électronique) — Lycée Louis Armand, Mulhouse
 
 ## 🚀 Ce que je fais
