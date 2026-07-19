@@ -55,7 +55,7 @@ Mon projet le plus abouti : une **borne de télémesure viticole** (projet BTS p
 
 ## 📌 Projets
 
-- 🍇 **Borne de télémesure viticole** — chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → webapp Node.js temps réel
+- 🍇 **[Borne de télémesure viticole](https://github.com/Ilies-B/serveur-LoRaWan-et-application-web-de-supervision)** — chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → webapp Node.js temps réel
 - 🤖 **[Skybot ESP32](https://github.com/Ilies-B/skybot-esp32)** — robot piloté via une interface web embarquée, avec flux vidéo ESP32-CAM, détection d'obstacles et reconnaissance faciale
 
 ## 📫 Me contacter
