@@ -4,7 +4,7 @@
 🔍 **À la recherche d'une alternance en développement logiciels, web / mobile**<br>
 📜 Titulaire d'un **BTS CIEL** (Cybersécurité, Informatique et réseaux, Électronique) — Lycée Louis Armand, Mulhouse
 
-## 🚀 Ce que je fais
+## Ce que je fais
 
 Je m'intéresse aux systèmes **full-stack IoT** : de la carte embarquée jusqu'à l'application web, en passant par le réseau et le serveur.
 
