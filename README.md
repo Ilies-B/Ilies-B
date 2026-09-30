@@ -1,16 +1,20 @@
 # Ilies BOUSSABOUA
 
-🎓 Étudiant en **Licence Professionnelle Développement Web & Mobile (LP3 UHA 4.0)** à l'Université de Haute-Alsace. Accepté pour la rentrée en septembre 2026<br>
-🔍 **À la recherche d'une alternance en développement logiciels, web / mobile**<br>
+### Développeur web & applications junior · Profil polyvalent
+
+💼 **À la recherche d'un premier poste de développeur web / applicatif**<br>
+📍 Haut-Rhin (68)
 📜 Titulaire d'un **BTS CIEL** (Cybersécurité, Informatique et réseaux, Électronique) — Lycée Louis Armand, Mulhouse
 
-## Ce que je fais
+## À propos
 
-Je m'intéresse aux systèmes **full-stack IoT** : de la carte embarquée jusqu'à l'application web, en passant par le réseau et le serveur.
+Je débute dans le développement web et applicatif avec une base large acquise pendant mon BTS CIEL : programmation, réseaux, systèmes Linux, électronique embarquée et cybersécurité. Cette formation m'a permis de toucher à toutes les couches d'un projet, du capteur jusqu'à l'interface web, et de comprendre comment elles s'articulent.
 
-Mon projet le plus abouti : une **borne de télémesure viticole** (projet BTS pour le CIVA) — capteurs sur ESP32, transmission LoRaWAN, serveur ChirpStack/MQTT conteneurisé avec Docker, base de données time-series InfluxDB, et application web Node.js complète (authentification, données temps réel avec Socket.io, cartographie Leaflet, graphiques Chart.js, alertes email avec détection de vol par géolocalisation), le tout sécurisé en TLS (HTTPS/MQTTS).
+C'est en réalisant l'application web de mon projet de BTS (Node.js, temps réel, cartographie, graphiques) que j'ai trouvé ce qui me plaît le plus : **créer des sites et des applications aussi utilies que bien **. J'ai décidé de m'y consacrer.
 
-## 🛠️ Technologies
+**Ce que je recherche :** un premier poste où apprendre au contact d'une équipe, monter en compétences sur le terrain (bonnes pratiques, frameworks modernes, travail en équipe sur un vrai produit) et contribuer à des projets concrets.
+
+## 🛠️ Technologies utilisées en projet
 
 **Web & Backend**
 
@@ -37,7 +41,7 @@ Mon projet le plus abouti : une **borne de télémesure viticole** (projet BTS p
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi"/><br><sub><b>Raspberry&nbsp;Pi</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=arduino" width="48" alt="Arduino"/><br><sub><b>Arduino</b></sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/influxdb" width="48" alt="InfluxDB"/><br><sub><b>InfluxDB</b></sub></td>
-    <td align="center" width="90"><img src="https://cdn.simpleicons.org/eclipsemosquitto" width="48" alt="MQTT Mosquitto"/><br><sub><b>MQTT</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/eclipsemosquitto" width="48" alt="MQTT Mosquitto"/><br><sub><b>MQTT Mosquitto</b></sub></td>
     <td align="center" width="90"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" alt="ESP32"/><br><sub><b>ESP32</b></sub></td>
   </tr>
 </table>
@@ -55,8 +59,8 @@ Mon projet le plus abouti : une **borne de télémesure viticole** (projet BTS p
 
 ## 📌 Projets
 
-- 🍇 **[Borne de télémesure viticole](https://github.com/Ilies-B/serveur-LoRaWan-et-application-web-de-supervision)** — chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → webapp Node.js temps réel
-- 🤖 **[Skybot ESP32](https://github.com/Ilies-B/skybot-esp32)** — robot piloté via une interface web embarquée, avec flux vidéo ESP32-CAM, détection d'obstacles et reconnaissance faciale
+- 🍇 **[Borne de télémesure viticole](https://github.com/Ilies-B/serveur-LoRaWan-et-application-web-de-supervision)** — chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → application web
+- 🤖 **[Skybot ESP32](https://github.com/Ilies-B/skybot-esp32)** — robot piloté via une interface web embarquée, avec flux vidéo en direct (ESP32-CAM), détection d'obstacles et reconnaissance faciale
 
 ## 📫 Me contacter
 
