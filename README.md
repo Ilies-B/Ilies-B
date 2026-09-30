@@ -10,7 +10,9 @@
 
 Je débute dans le développement web et applicatif avec une base large acquise pendant mon BTS CIEL : programmation, réseaux, systèmes Linux, électronique embarquée et cybersécurité. Cette formation m'a permis de toucher à toutes les couches d'un projet, du capteur jusqu'à l'interface web, et de comprendre comment elles s'articulent.
 
-C'est en réalisant l'application web de mon projet de BTS (Node.js, temps réel, cartographie, graphiques) que j'ai trouvé ce qui me plaît le plus : **créer des sites et des applications aussi utilies que bien **. J'ai décidé de m'y consacrer.
+C'est en réalisant l'application web de mon projet de fin d'année de BTS que j'ai trouvé ce qui me plaît le plus : **concevoir des systèmes qui répondent aux besoins des gens, en particulier des sites et des applications aussi utiles que bien pensés**. C'est pourquoi, après mon BTS, j'ai choisi de me spécialiser dans ce domaine.
+
+En attendant de pouvoir y travailler ou de poursuivre mes études, je développe mes compétences en suivant **[The Odin Project](https://www.theodinproject.com/)**, un cursus open source de développement web full-stack fondé sur la réalisation de projets concrets.
 
 **Ce que je recherche :** un premier poste où apprendre au contact d'une équipe, monter en compétences sur le terrain (bonnes pratiques, frameworks modernes, travail en équipe sur un vrai produit) et contribuer à des projets concrets.
 
