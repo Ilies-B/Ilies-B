@@ -4,7 +4,7 @@
 
 💼 **À la recherche d'un premier poste de développeur web / applicatif**<br>
 📍 Haut-Rhin (68)
-📜 Titulaire d'un **BTS CIEL** (Cybersécurité, Informatique et réseaux, Électronique) — Lycée Louis Armand, Mulhouse
+📜 Titulaire d'un **BTS CIEL** (Cybersécurité, Informatique et réseaux, Électronique) - Lycée Louis Armand, Mulhouse
 
 ## À propos
 
@@ -59,8 +59,8 @@ C'est en réalisant l'application web de mon projet de BTS (Node.js, temps réel
 
 ## 📌 Projets
 
-- 🍇 **[Borne de télémesure viticole](https://github.com/Ilies-B/serveur-LoRaWan-et-application-web-de-supervision)** — chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → application web
-- 🤖 **[Skybot ESP32](https://github.com/Ilies-B/skybot-esp32)** — robot piloté via une interface web embarquée, avec flux vidéo en direct (ESP32-CAM), détection d'obstacles et reconnaissance faciale
+- 🍇 **[Borne de télémesure viticole](https://github.com/Ilies-B/serveur-LoRaWan-et-application-web-de-supervision)** Chaîne IoT complète LoRaWAN → ChirpStack → InfluxDB → application web
+- 🤖 **[Skybot ESP32](https://github.com/Ilies-B/skybot-esp32)** Robot piloté via une interface web embarquée, avec flux vidéo en direct (ESP32-CAM), détection d'obstacles et reconnaissance faciale
 
 ## 📫 Me contacter
 
